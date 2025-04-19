@@ -26,7 +26,7 @@ class MinimaxTypeASearch(Algorithm):
     def _search(self):
         # Looking for the best actions
         self.node_expanded =0
-        print('Game Step:', self.current_state.step, "My Step:", self.my_step,
+        print('Game Step:', str(self.current_state.step)+f"/{MAX_MOVES}", "My Step:", str(self.my_step)+f"/{MAX_MOVES}",
               'Type:', self.__class__.__name__, 'Depth:', self.max_depth)
         print('Main Heuristic:', self.main_heuristic)
         cost, action_star = self._minimax(self.current_state, True, float(
