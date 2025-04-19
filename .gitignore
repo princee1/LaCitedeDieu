@@ -1,0 +1,15 @@
+*/__pycache__/
+.venv
+*.json
+*.ipynb
+*.zip
+image/
+results/
+archived_results/
+data/
+build/
+sim/
+.vscode/
+.VSCodeCounter/
+INF8175-Rapport.pdf
+*.pyc
