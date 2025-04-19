@@ -17,8 +17,8 @@ The original repository contains:
 - All stages of development and progress.
 - Detailed insights into the evolution of the project.
 
-If you are interested in the development process, commit history, or intermediate stages, please refer to the original repository.
+If you are interested in the development process, commit history, or intermediate stages, please refer to the original repository. https://github.com/Mbaka11/INF8175-AI_AGENT
 
 ## Features
 - **Final Product Showcase**: This repository contains only the final version of the project.
-- **Collaborative Effort**: The project was developed in collaboration with my compadre, showcasing teamwork and shared vision.
+- **Collaborative Effort**: The project was developed in collaboration with my compadre @https://github.com/Mbaka11, showcasing teamwork and shared vision.
