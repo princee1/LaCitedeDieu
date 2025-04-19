@@ -11,5 +11,4 @@ build/
 sim/
 .vscode/
 .VSCodeCounter/
-INF8175-Rapport.pdf
 *.pyc
